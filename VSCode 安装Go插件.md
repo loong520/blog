@@ -50,7 +50,7 @@
 
    3. 下载完所有源码之后，进行安装： 
 
-      go install <font color=blue>github.com/mdempsky/gocode</font>
+   ​	   go install <font color=blue>github.com/mdempsky/gocode</font>
 
    ​	   go install <font color=blue>github.com/uudashr/gopkgs/v2/cmd/gopkgs</font>
 
