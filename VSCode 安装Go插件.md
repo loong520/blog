@@ -38,7 +38,8 @@
 
    ​	Installing <font color=blue>golang.org/x/lint/golint</font> FAILED
    
-   **主要原因：**golang.org基于众所周知的原因无法直接访问，而go get在获取go code、go-def、golint等插件依赖工具的源码时，需要从golang.org上拉取部分代码至GOPATH
+   **主要原因：**
+       golang.org基于众所周知的原因无法直接访问，而go get在获取go code、go-def、golint等插件依赖工具的源码时，需要从golang.org上拉取部分代码至GOPATH
 
    **解决办法：**
 
